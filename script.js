@@ -31,7 +31,7 @@ $(document).ready(function () {
     });
 
     var typed = new Typed(".typing", {
-        strings: ["Software Developer", "Software Engineer", "Talented Coder"],
+        strings: ["Software Developer", "Open Source Contributer", "Freelancer","MERN Stack Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
